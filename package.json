@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "lunchbot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Slackbot that crawls http://www.fooda.com/braze and sends opted-in users the lunch for today"
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "https://github.com/janna-hershey/easy-peasy-bot"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Janna Hershey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/janna-hershey/easy-peasy-bot/issues"
   },
   "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
   "engines": {
